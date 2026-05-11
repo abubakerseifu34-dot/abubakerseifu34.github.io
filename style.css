@@ -1,11 +1,11 @@
 button {
   background-color: #4CAF50;
   color: white;
-  padding: 60px 128px;
+  padding: 100px 130px;
   margin: 20px;
   border: none;
-  border-radius: 20px;
-  font-size: 80px;
+  border-radius: 50px;
+  font-size: 100px;
   cursor: pointer;
   font-weight: bold;
 }
