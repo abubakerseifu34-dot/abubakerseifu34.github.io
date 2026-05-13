@@ -120,10 +120,10 @@
 }
 
 .image-container img {
-    width: 250px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
     border-radius: 10px;
-    flex-shrink: 0;             /* prevent shrinking */
+    flex-shrink:0;             /* prevent shrinking */
 }
 
 h1 { text-align: center;}
@@ -272,7 +272,7 @@ body {
 
 /* Make all text bigger */
 body, p, li, td, div, span, b, strong {
-  font-size: 25px;
+  font-size: 35px;
   line-height: 1.6;
 }
 
@@ -291,7 +291,7 @@ h3 {
 
 /* Table text */
 td, th {
-  font-size: 23px;
+  font-size: 25px;
   padding: 10px;
 }
 
