@@ -1,3 +1,23 @@
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+}
+
+
+
+
 .menu-btn {
   width: 35px;
   height: 30px;
@@ -187,14 +207,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-
 #reg-portal-unique {
             font-family: sans-serif;
             background-color: #f4f4f9;
@@ -210,6 +222,7 @@ body {
             width: 100%;
             max-width: 400px;
             color: #333;
+          font-size: 20px;
         }
 #reg-portal-unique .search-box {
            margin-bottom: 2px; 
@@ -229,6 +242,7 @@ body {
          color: white; 
          border-radius: 0 4px 4px 0; 
          cursor: pointer;
+         
         }
 #reg-portal-unique h2 { 
          text-align: center; 
@@ -238,7 +252,7 @@ body {
          display: block; 
          margin-top: 15px; 
          font-weight: bold; 
-         font-size: 14px; 
+         font-size: 20px; 
          text-align: left;
        }
 #reg-portal-unique input, 
